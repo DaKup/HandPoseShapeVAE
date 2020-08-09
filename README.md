@@ -1,6 +1,6 @@
 # HandPoseShapeVAE
 
-(no longer maintained!)
+(not actively maintained)
 
 Experimental framework for unsupervised hand pose and shape disentanglement
 
